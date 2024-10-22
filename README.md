@@ -1,11 +1,11 @@
-# :zap: Jonathan Doe
+# :zap: Matt Lavo
 
 `Software Engineer`
 
-Hi! My name is Jonathan, and I am passionate about frontend development and building engaging user experiences. With a sharp eye for design and a passion for clean, efficient code, I specialise in creating seamless web applications and interactive interfaces. I thrive on making ideas a reality by combining creativity and technical expertise. Whether I'm creating responsive websites, optimising performance, or researching the latest frontend technologies, I'm committed to providing high-quality solutions that exceed expectations. Explore my repositories to view some of my projects, and please contact me if you want to collaborate or have any queries. Let us work together to create something extraordinary!
+Hi, I'm Matt, a frontend developer focused on building engaging and efficient web applications. I enjoy turning ideas into reality through clean design and code. Whether it's creating responsive websites or exploring the latest technologies, I'm dedicated to delivering high-quality solutions. Check out my projects, and feel free to reach out if you'd like to collaborate!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-doe/)
-[![ePortfolio](https://img.shields.io/badge/ePortfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.jonathandoe.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matt-lavo/)
+[![ePortfolio](https://img.shields.io/badge/ePortfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mattlavo.com/)
 
 
 ## :hammer: Here are the tools, libraries, technologies, and frameworks I've worked with:
